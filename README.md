@@ -28,7 +28,7 @@ Infraestructura y monitoreo:
 -Kafka
 -CloudWatch
 
-##Seguridad
+## Seguridad
 -Oauth 2.0
 -TLS
 -AWS Secret Manager
